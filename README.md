@@ -4,8 +4,6 @@
 **Release Date**: August 31, 2023  
 **Creator**: JDFraire
 
-![ST7735 Mini Display]
-
 ## Overview
 
 The JDFraire ST7735 Library is a custom Arduino library designed for controlling the ST7735S 0.96" 80x160 TFT color display with a 4-wire SPI interface. This library provides an easy-to-use interface to control and display graphics on this mini display.
